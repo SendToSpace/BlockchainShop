@@ -1,0 +1,37 @@
+body{
+  background: linear-gradient(rgba(20,30,10,0.7),rgba(13,10,50,0.5)),url(loginbackground.jpg);
+    background-size: contain;
+    background-positon: center;
+}
+
+
+
+.login-box{
+    max-width: 700px;
+    float: none;
+    margin: 150px auto;
+    border-radius:50%;
+}
+
+
+.login-left{
+   width: auto;
+    height: auto;
+    background-color: white;
+    overflow:auto;
+    color:chocolate;
+    background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(bitcoin.png);
+}
+.login-right{
+   width: auto;
+    height: auto;
+    background-color: white;
+    overflow:auto;
+    color:coral;
+    background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(bitcoin.png);
+}
+#balance {
+    padding:1em;
+    background-color:#fff;
+    margin: 1em 0;
+}
